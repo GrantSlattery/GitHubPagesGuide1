@@ -1,6 +1,5 @@
-# GitHubPagesGuide1  
 
-Guide: HTML, CSS and GitHub Pages Website  
+# Guide: HTML, CSS and GitHub Pages Website  
 
 Step 1) Start a new repository on GitHub    
 Step 2) Create a new file named index.html in the repository   
