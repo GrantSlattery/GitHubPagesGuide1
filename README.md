@@ -25,8 +25,7 @@ p    {color: lime;}
 ```
 
 Step 4) Select settings -> pages then change source to the branch index.html is located on (main)   
-Step 5) Website is now published here: https://username.github.io/repositoryname/   
-  
+Step 5) Website is now published here: https://username.github.io/repositoryname/    
 Next) Make a separate stylesheet file (ex: 'style.css') and add more content  
   
 More information: https://pages.github.com/, https://www.w3schools.com/html/html_basic.asp   
